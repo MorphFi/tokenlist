@@ -1,0 +1,39 @@
+{
+  "name": "Morph Holesky Token List",
+  "timestamp": "2024-03-16T12:30:45.678Z",
+  "keywords": [
+    "null"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/MorphFi/tokenlist/main/logo/morphlogo.png",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 2810,
+      "name": "Wrapped Ether",
+      "address": "0x5300000000000000000000000000000000000011",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/MorphFi/tokenlist/main/logo/weth.png"
+    },
+    {
+      "chainId": 2810,
+      "name": "USDT Test",
+      "address": "0x2D86a7f3bebEa47b7686E9744f932084Ce4CBA03",
+      "decimals": 18,
+      "symbol": "tUSDT",
+      "logoURI": "https://raw.githubusercontent.com/MorphFi/tokenlist/main/logo/usdt.png"
+    },
+    {
+      "chainId": 2810,
+      "name": "USDC Test",
+      "address": "0xCEC9adEF4F6A3e1aC35A36c1f2F55F86f09dC931",
+      "decimals": 18,
+      "symbol": "tUSDC",
+      "logoURI": "https://raw.githubusercontent.com/MorphFi/tokenlist/main/logo/usdc.png"
+    }
+  ]
+}
